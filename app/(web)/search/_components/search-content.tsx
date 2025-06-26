@@ -43,7 +43,7 @@ const SearchContent = () => {
   const listings = data?.listings || [];
 
   const breadcrumbItems = [
-    { label: "Auto Hunt", href: "/" },
+    { label: "MotorSoko", href: "/" },
     { label: `${listings?.length || 0} results cars found` },
   ];
 

@@ -29,7 +29,7 @@ const CarDetail = ({
   const listing = data?.listing as ListingType;
 
   const breadcrumbItems = [
-    { label: "Auto Hunt", href: "/" },
+    { label: "MotorSoko", href: "/" },
     { label: "Cars", href: "/search" },
     { label: carName },
   ];
